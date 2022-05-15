@@ -1,1 +1,3 @@
 hello we are learning git
+
+this is added after 1st commit
